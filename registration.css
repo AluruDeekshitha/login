@@ -1,0 +1,101 @@
+body{
+    background-image: url("https://analyticsindiamag.com/wp-content/uploads/2019/05/apps.55787.9007199266246365.687a10a8-4c4a-4a47-8ec5-a95f70d8852d.jpg");
+    background-position: center;
+    background-size: cover;  
+     
+
+}
+.heading{
+    color:red;
+}
+.styling{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(20, 18, 18);
+    width: 450px;
+    height:600px;
+     padding:10px; 
+    /* border: 5px solid gray; */
+    margin: 0;
+    padding-top: 60px;
+}
+.formy{
+    display: flex;
+    flex-direction: column;
+   }
+.one{  
+            background-color: rgb(58, 57, 57);
+            width: 90%;
+            font-size: 20px;
+            border:none;
+            margin-top: 6%;
+            margin-left: 2%;
+            margin-top: 1%;
+            margin-bottom: 5%;
+            
+}
+.check{
+    display: flex;
+    flex-direction: row;
+    margin-top: 3%;
+    margin-bottom: 2%;
+    color: white;
+    font-size: 14px;
+}
+.two{
+    background-color: rgb(251, 2, 2);
+    width: 90%;
+    font-size: 15px;
+    border:none;
+    margin-top: 5%;
+    margin-left: 1%;
+    padding: 3%;
+}
+.two:hover{
+    background-color: brown;
+}
+.btn{
+    background-color: grey;
+    width: 90%;
+    font-size: 15px;
+    border:none;
+    margin-top: 5%;
+    margin-left: 1%;
+    padding: 3%;
+    color: beige;
+}
+.btn:hover{
+    background-color: rgb(48, 49, 49);
+    
+}
+.three{
+    display:flex;
+}
+.four{
+    color: white;
+}
+.y{
+    width: 60%;
+    height: 70%;
+    font-size: 10px;
+}
+.signing{
+    font-size: 15px;
+    font-weight: 10;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(130, 127, 127);
+    text-align: left;
+    padding-left: 20%;
+}
+.signing a{
+    /* color: white; */
+    text-decoration: none;
+}
+
+.signin{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
+
